@@ -3,7 +3,7 @@ from custom_API import *
 from datetime import datetime, timedelta
 
 
-bot = TeleBot("7160462503:AAF2TsIXaehcOi-j_j60p4UN8yZ3_2tv-Vw")
+bot = TeleBot("***")
 context = ["refuse|", "interview|", "date|", "time|", "cancel|", "accept|"]
 
 
