@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from custom_API import read_interviews, delete_interview, read_nicknames, delete_time
 
 
-bot = TeleBot("7160462503:AAF2TsIXaehcOi-j_j60p4UN8yZ3_2tv-Vw")
+bot = TeleBot("***")
 BOT_URL = "https://t.me/Recruter_help_bot"
 
 
